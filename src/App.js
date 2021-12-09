@@ -4,8 +4,8 @@ function App() {
     <div>
       <Header />
       <Galery />
-      <Footer />
       <Block1 />
+      <Footer />
     </div>
   );
 }
