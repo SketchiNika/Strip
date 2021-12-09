@@ -1,0 +1,12 @@
+.imagesBlock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
+.imageBlock{
+    width: 200px;
+    height: 100px;
+    margin: 0 20px 10px 0;
+}

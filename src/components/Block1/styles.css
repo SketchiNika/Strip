@@ -1,0 +1,23 @@
+.mainBlock {
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.itemBlock {
+    width: 300px;
+    height: 400px;
+    background-color: brown;
+}
+.itemTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: chartreuse;
+    height: 100px;
+}
+.itemContent {
+    padding: 0 20px;
+    text-align: center;
+}
